@@ -38,7 +38,7 @@ The project requires the following Python packages:
 
 You can install the required packages with:
 
-```bash
+bash
 pip install -r requirements.txt
 _____________________________________________________________________
 
